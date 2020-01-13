@@ -4,6 +4,10 @@ body{
 }
 .conteiner-principal .conteiner{box-shadow:none;}
 .top .span12{width:100%}
+
+/* corrigindo posicionamento errado quebrando na pagina*/
+.span12{margin-left:0px !important}
+
 .lista-redes ul li{border:none}
 .botao.principal{
  	border:0;
